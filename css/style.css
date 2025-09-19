@@ -172,3 +172,7 @@ tr:hover {
     background-color: #fbf5ee; 
     width: 80%;     
 }
+
+body{
+    font-family: "Montserrat", sans-serif;
+}
